@@ -90,7 +90,7 @@ body{
     .container section .content h2{
         position: absolute;
         bottom: 30vh;
-        left: 7vh;
+        left: 4vh;
         background: #ce100b;
         font-size: 5em;
         color: #000;
@@ -98,13 +98,13 @@ body{
     .content img{
         position: absolute;
         top: 30vh;
-        left: 15vh;
+        left: 10vh;
         width: 70%;
     }
     .container section .content p{
         position: absolute;
         top: 70vh;
-        left: 6vh;
+        left: 4vh;
         background: #ce100b;
         font-size: 1em;
         line-height: normal;
