@@ -90,21 +90,21 @@ body{
     .container section .content h2{
         position: absolute;
         bottom: 30vh;
-        left: 15vh;
+        left: 7vh;
         background: #ce100b;
         font-size: 5em;
         color: #000;
     }
     .content img{
         position: absolute;
-        top: 20vh;
+        top: 30vh;
         left: 15vh;
         width: 70%;
     }
     .container section .content p{
         position: absolute;
         top: 70vh;
-        left: 15vh;
+        left: 6vh;
         background: #ce100b;
         font-size: 1em;
         line-height: normal;
@@ -176,7 +176,7 @@ body{
         background-color: #f65b55;
         position: relative;
         bottom: 0px;
-        left: 380px;
+        left: 300px;
         width: 15%;
         height: 15%;
     }
